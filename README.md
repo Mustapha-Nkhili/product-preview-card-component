@@ -8,6 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#Links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -20,6 +21,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Screenshot
 
 ![Screenshot](https://github.com/Mustapha-Nkhili/product-preview-card-component/assets/127800851/d80f8ae7-fe17-44fb-99b2-02d0a0222ff7)
+
+### Links
+
+- Solution URL: [you can see my solution here in frontend mentor](https://www.frontendmentor.io/solutions/responsive-product-card-component-using-flexbox-p0A8VGXGKJ)
+- Live Site URL: [QR code](https://productpreviewcard-component.netlify.app)
 
 ## My process
 
